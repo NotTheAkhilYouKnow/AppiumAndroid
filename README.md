@@ -1,2 +1,0 @@
-# AppiumAndroid
-Appium framework
